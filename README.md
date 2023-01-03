@@ -1,6 +1,6 @@
 # Fake-news-detection
 
-##To Do
+## To Do
 
 1. Combine Liar + TSHP-17 (Remove Duplicates)
 2. Different Preprocessing 
