@@ -3,9 +3,12 @@
 ## To Do
 
 1. Combine Liar + TSHP-17 (Remove Duplicates)
-2. Different Preprocessing 
+2. Different Preprocessing
+
   a. Count vectorizer
+  
   b. TF-IDF
+  
 3. Preprocessing
   a. With Lemmatization-Stemming
   b. Without Lemmatization-Stemming
