@@ -2,7 +2,7 @@
 
 ## To Do
 
-1. Combine Liar + TSHP-17 (Remove Duplicates). 
+1. Combine Liar + TSHP-17 (Remove Duplicates).  - DONE
 2. Different Preprocessing. 
   a. Count vectorizer. 
   b. TF-IDF. 
